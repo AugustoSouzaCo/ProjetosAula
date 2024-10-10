@@ -1,0 +1,24 @@
+import java.util.Scanner;
+
+public class PesoPopulação {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		double media = 0;
+		double somaPeso = 0;
+		double peso = 0;
+		int tamanhoPopulação = 0;
+		
+		while (true) {
+			System.out.println("Digite do indivíduo na população");
+			peso = sc.nextDouble();
+			System.out.println("Tem mais gente? 'sim' ou 'não'");
+			String opcao = sc.nextLine();
+			if (opcao == "sim") {
+				somaPeso += peso;
+				tamanhoPopulação++;
+			} else {
+				break;
+			}
+		}
+	}
+}
