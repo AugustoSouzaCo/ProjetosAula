@@ -8,3 +8,12 @@ Este repositório contém os códigos e exercícios desenvolvidos durante as aul
 
 A estrutura do repositório segue a numeração das aulas, e cada pasta contém códigos relacionados ao conteúdo abordado:
 
+├── ProjetosJava/
+│   ├── .metadata/
+│   ├── Aula 05/
+│   ├── Aula 06/
+│   ├── Aula 07/
+│   ├── Aula 08/
+│   ├── Aula 09/
+│   ├── Aula 10/
+└── README.md
