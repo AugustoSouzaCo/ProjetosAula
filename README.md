@@ -8,6 +8,8 @@ Este repositório contém os códigos e exercícios desenvolvidos durante as aul
 
 A estrutura do repositório segue a numeração das aulas, e cada pasta contém códigos relacionados ao conteúdo abordado:
 
+```bash
+
 ├── ProjetosJava/
 │   ├── .metadata/
 │   ├── Aula 05/
